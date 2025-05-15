@@ -13,4 +13,4 @@ Déployer sur Railway. Modifier le fichier `.env` pour y inclure vos clés.
 
 ---
 
-Développé pour Leïla.
+Développé by BigVolpone.
