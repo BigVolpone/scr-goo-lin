@@ -38,6 +38,6 @@ app.get('/scrape', async (req, res) => {
     }
 });
 
-app.listen(PORT, () => {
-    console.log(`Scraper ready at http://localhost:${PORT}`);
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`✅ Scraper running on port ${PORT}`);
 });
